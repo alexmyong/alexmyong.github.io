@@ -1,0 +1,1 @@
+open /Applications/Xcode.app/Contents/MacOS/Xcode
