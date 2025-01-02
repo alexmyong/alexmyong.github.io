@@ -1,3 +1,0 @@
-1) m/s [metres per second]
-2) km/h [kilometres per hour]
-3) mph [miles per hour]
